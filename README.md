@@ -25,7 +25,6 @@
 <li>Saves all contacts, groups, and search history using file handling</li>
 </ul><ul>
 <li>Merging Same Contacts</li>
-</ul><h5>Steps</h5><ul>
 </ul><h2>Project Status</h2>
 <hr><p>Completed</p><h2>Acknowledgement</h2>
 <hr><ul>
