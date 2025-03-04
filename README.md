@@ -26,7 +26,7 @@
 </ul><ul>
 <li>Merging Same Contacts</li>
 </ul><h5>Steps</h5><ul>
-<li>git clone https://github.com/AyaanHassanShah/Advanced-Contacts-Book-Cpp.git
+<li>git clone https://github.com/AyaanHassanShah/Advanced-Contacts-Book.git
 </li>
 </ul><h2>Project Status</h2>
 <hr><p>Completed</p><h2>Acknowledgement</h2>
